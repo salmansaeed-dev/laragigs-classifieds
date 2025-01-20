@@ -65,7 +65,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-<h1 align="center" id="title">Job Portal</h1>
+<h1 align="center" id="title">Laragigs Classifieds</h1>
 
 <p id="description">Demo project for listing Classifieds in Laravel. in this project there are features like profile creation, posting jobs and many more I had created this project some time ago to solidify my skills in Laravel.</p>
 
